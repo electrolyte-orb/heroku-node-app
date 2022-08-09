@@ -1,0 +1,16 @@
+{
+  "name": "heroku-node-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": "https://github.com/electrolyte-orb/heroku-node-app.git",
+  "author": "electrolyte-orb <electrolyte.spdf@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.3",
+    "@types/node": "^18.6.5",
+    "typescript": "^4.7.4"
+  }
+}
