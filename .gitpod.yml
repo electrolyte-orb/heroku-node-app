@@ -1,3 +1,6 @@
+tasks:
+  - name: Install Heroku
+    before: curl https://cli-assets.heroku.com/install.sh | sh
 vscode:
   extensions:
     - esbenp.prettier-vscode
